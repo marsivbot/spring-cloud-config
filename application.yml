@@ -3,3 +3,6 @@ mb:
   srcHostID: 'SIBS'
   tgtHostID: 'MOB'
   language: ch
+
+odl:
+  activeTxnBuffer: 30       #expressed in minutes
