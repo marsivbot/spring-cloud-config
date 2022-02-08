@@ -1,1 +1,5 @@
-key: value
+key: value3
+mb:
+  srcHostID: 'SIBS'
+  tgtHostID: 'MOB'
+  language: ch
