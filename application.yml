@@ -1,8 +1,7 @@
-spring:
-  cloud:
-    config:
-      i18n:
-        path: /default/main/i18n/messages
+i18n:
+  location: cloud
+  path: /default/main/i18n/messages
+  
 key: value3
 mb:
   srcHostID: 'SIBS'
