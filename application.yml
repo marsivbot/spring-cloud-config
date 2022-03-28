@@ -1,5 +1,5 @@
 i18n:
-  location: cloud
+  location: external
   path: /default/main/i18n/messages
   
 key: value3
