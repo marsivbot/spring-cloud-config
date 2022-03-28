@@ -1,8 +1,13 @@
+spring:
+  cloud:
+    config:
+      i18n:
+        path: /default/main/i18n/messages
 key: value3
 mb:
   srcHostID: 'SIBS'
   tgtHostID: 'MOB'
-  language: ch
+  language: en
 
 odl:
   activeTxnBuffer: 30       #expressed in minutes
