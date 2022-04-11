@@ -1,2 +1,14 @@
-sample:
-  company: sngular local
+spring:
+  cloud:
+    bus:
+      enabled: true
+      refresh:
+        enabled: true
+      env:
+        enabled: true
+    kafka:
+      bootstrap-servers: http://localhost:9092
+
+odl:
+  activeTxnBuffer: 25       #expressed in minutes
+
