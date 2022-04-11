@@ -10,5 +10,5 @@ spring:
       bootstrap-servers: http://localhost:9092
 
 odl:
-  activeTxnBuffer: 25       #expressed in minutes
+  activeTxnBuffer: 35       #expressed in minutes
 
