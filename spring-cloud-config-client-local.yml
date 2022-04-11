@@ -7,7 +7,7 @@ spring:
       env:
         enabled: true
     kafka:
-      bootstrap-servers: http://localhost:9092
+      bootstrap-servers: http://kafka:9093
 
 odl:
   activeTxnBuffer: 45       #expressed in minutes
